@@ -1,4 +1,4 @@
-module fetcher
+module github.com/xuanyiying/fetcher
 
 go 1.21
 
